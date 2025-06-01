@@ -98,4 +98,4 @@ Step 3 - Add New Slave Nodes
 ## Added nodes must be **"in sync"**
 ![image](https://github.com/user-attachments/assets/edacf6d5-fe85-4fdb-baad-9f8a0101ea4e)
 
-## Check this 'Practical-Slave_1(prod)'
+- Check this [Practical-Slave_1(prod)](https://github.com/Git-Prajwal-GH/Forked-complete-cicd-project-microdegree/blob/Jenkins/Practical-Slave_1(prod).md)
