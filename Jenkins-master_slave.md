@@ -95,3 +95,5 @@ Step 3 - Add New Slave Nodes
 
 ## Confirm the status of Slave nodes is **'ONLINE'** 
 ![image](https://github.com/user-attachments/assets/c83bd56c-7777-45be-bc06-2d834fd64cea)
+## Added nodes must be **"in sync"**
+![image](https://github.com/user-attachments/assets/edacf6d5-fe85-4fdb-baad-9f8a0101ea4e)
