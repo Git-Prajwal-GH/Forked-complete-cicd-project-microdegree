@@ -99,4 +99,4 @@ Step 3 - Add New Slave Nodes
 ![image](https://github.com/user-attachments/assets/edacf6d5-fe85-4fdb-baad-9f8a0101ea4e)
 
 - Check out steps [Practical-Slave_1(prod)](https://github.com/Git-Prajwal-GH/Forked-complete-cicd-project-microdegree/blob/Jenkins/Practical-Slave_1(prod).md)
-- Check out steps [Practical-Slave_2(stage)]((https://github.com/Git-Prajwal-GH/Forked-complete-cicd-project-microdegree/blob/Jenkins/Practical-Slave_2(Stage).md))
+- Check out steps [Practical-Slave_2(stage)](https://github.com/Git-Prajwal-GH/Forked-complete-cicd-project-microdegree/blob/Jenkins/Practical-Slave_2(Stage).md)
