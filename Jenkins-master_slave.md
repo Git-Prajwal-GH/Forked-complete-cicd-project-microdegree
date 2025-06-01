@@ -93,5 +93,5 @@ Step 3 - Add New Slave Nodes
 ![img_4.png](img_4.png)
 ![img_5.png](img_5.png)
 
-## Confirm the status of Slave nodes is **ONLINE** 
+## Confirm the status of Slave nodes is **'ONLINE'** 
 ![image](https://github.com/user-attachments/assets/c83bd56c-7777-45be-bc06-2d834fd64cea)
